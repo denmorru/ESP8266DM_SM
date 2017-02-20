@@ -5,7 +5,16 @@ controlling single stepper motor module (A4988)
 without extra stepper libraries 
 with minimum pins used.
 
-Use pins: 
-DIRE 
+Used pins to connect driver module with D1 mini: 
+
+DIR - logic direction 
+
 and 
-STEP 
+
+STP - signal for step 
+
+and 
+
+GND - ground
+
+Minimum pins: "G" and "S". "D" is not obligatory in case you want move only one direction (default).
