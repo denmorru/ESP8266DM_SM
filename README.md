@@ -1,8 +1,8 @@
 # ESP8266DM_SM
 
-Firmware for Wemos D1 mini (ESP8266) board 
-controlling single stepper motor module (A4988) 
-without extra stepper libraries 
+Firmware for Wemos D1 mini (ESP8266) board <br>
+controlling single stepper motor module (A4988) <br>
+without extra stepper libraries <br>
 with minimum pins used.
 
 Used pins to connect driver module with D1 mini: 
