@@ -18,6 +18,5 @@ and
 GND - ground
 
 Minimum pins: "G" and "S". "D" is not obligatory in case you want move only one direction (default).
-\n
-
+<br>
 Tested 1.5A stepper motor (17HD40005-22B model). Motor powered by 3A.max 10V source. Chip (A4988) powered by 1A.max 5V source.
