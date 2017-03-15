@@ -20,3 +20,8 @@ GND - ground
 Minimum pins: "G" and "S". "D" is not obligatory in case you want move only one direction (default).
 <br>
 Tested 1.5A stepper motor (17HD40005-22B model). Motor powered by 3A.max 10V source. Chip (A4988) powered by 1A.max 5V source.
+
+
+Update #1:<br>
+Added optional joystick (KY-023) support for speed control and start\stop repetable motion.<br>
+Added endstop support for initial stepper motor position reference.
