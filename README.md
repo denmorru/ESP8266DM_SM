@@ -24,4 +24,5 @@ Tested 1.5A stepper motor (17HD40005-22B model). Motor powered by 3A.max 10V sou
 
 Update #1:<br>
 Added optional joystick (KY-023) support for speed control and start\stop repetable motion.<br>
-Added endstop support for initial stepper motor position reference.
+Added optional encoder (KY-040) support for speed control and start\stop repetable motion.<br>
+Added endstop support for initial stepper motor position reference, and change DIR in case of limit reached.
